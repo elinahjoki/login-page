@@ -50,7 +50,7 @@ input::placeholder{
 }
 @media screen and (max-width:600px) {
    body{
-    background-color: rebeccapurple;
+    background-color:pink;
     margin-top: 100px;
    }
    .remember{
