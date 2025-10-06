@@ -48,3 +48,14 @@ input::placeholder{
     gap: 50px;
     margin: 4px;
 }
+@media screen and (max-width:600px) {
+   body{
+    background-color: rebeccapurple;
+    margin-top: 250px;
+   }
+   .remember{
+    display: flex;
+    gap: 30px;
+   padding-left:10px;
+}
+}
