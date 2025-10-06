@@ -51,7 +51,7 @@ input::placeholder{
 @media screen and (max-width:600px) {
    body{
     background-color: rebeccapurple;
-    margin-top: 250px;
+    margin-top: 150px;
    }
    .remember{
     display: flex;
